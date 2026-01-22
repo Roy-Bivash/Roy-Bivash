@@ -18,7 +18,7 @@
 
 ###
 
-<h1 align="center">hey there 👋</h1>
+<h1 align="left">hey there 👋</h1>
 
 ###
 
@@ -27,7 +27,7 @@
 ###
 
 <p align="left">I'm Bivash from France</p>
-<a href="www.rbivash.com">My personal Portfolio</a>
+<a href="www.rbivash.com">Check out my personal Portfolio</a>
 
 ###
 
@@ -67,8 +67,9 @@
 
 ###
 
-<div align="center">
-  <img src="https://streak-stats.demolab.com?user=Roy-Bivash&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" height="220" alt="streak graph"  />
-</div>
+
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=roy-bivash&show_icons=true&theme=dark&locale=en&layout=compact" alt="roy-bivash" /></p>
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=roy-bivash&show_icons=true&theme=dark&locale=en" alt="roy-bivash" /></p>
 
 ###
