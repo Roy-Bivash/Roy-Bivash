@@ -21,7 +21,7 @@
 ###
 
 <p align="left">I'm Bivash from France</p>
-<a href="www.rbivash.com">Check out my personal Portfolio</a>
+<a target="_blank" href="https://rbivash.com/">Check out my personal Portfolio</a>
 
 ###
 
